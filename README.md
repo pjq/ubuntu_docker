@@ -31,5 +31,15 @@ RUN echo yes|apt-get install git
 RUN echo yes|apt-get install subversion
 RUN echo yes|apt-get install vim
 RUN echo yes|apt-get install wget
-```
 RUN wget https://raw.githubusercontent.com/pjq/config/master/.vimrc -O ~/.vimrc 
+```
+
+More defails
+===========
+http://pjq.me/wiki/doku.php?id=linux:docker
+http://yeasy.gitbooks.io/docker_practice/
+http://boot2docker.io/
+https://hub.docker.com/
+https://docker.cn/
+http://www.dockerpool.com/
+
