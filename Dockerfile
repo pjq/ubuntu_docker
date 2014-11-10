@@ -1,4 +1,4 @@
-FROM ba5877dc9bec
+FROM ubuntu:14.04
 
 MAINTAINER Jianqing Peng <pengjianqing@gmail.com>
 
