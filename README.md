@@ -1,7 +1,9 @@
-A bleeding fresh ubuntu Dockerfile, good start to build your own Docker images.
+Ubuntu Dockerfile
 =============
-
 A Dockerfile for Ubuntu practice
+
+A bleeding fresh ubuntu Dockerfile, good start to build your own Docker images.
+
 
 Remove all the containers
 ============
